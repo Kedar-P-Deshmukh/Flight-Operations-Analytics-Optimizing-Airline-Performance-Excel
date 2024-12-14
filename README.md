@@ -1,5 +1,7 @@
 # Flight-Operations-Analytics-Optimizing-Airline-Performance-Excel
 
+Link:- https://docs.google.com/spreadsheets/d/1VPhROOtvc-utVhLIXm_Ll4fU9d6y9Vmb/edit?usp=sharing&ouid=108839445152779777461&rtpof=true&sd=true
+
 **Problem statement:-**
 The primary objective of this case study, titled "Sky Analytics: Navigating the Complexities of Airline and Airport Operations," is to deeply analyse and interpret the extensive datasets encompassing flights, airlines, and airports - namely "flights.csv", "airlines.csv", and "airports.csv". The analysis aims to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics. By exploring these datasets, the study seeks to identify key factors influencing operational efficiency, understand the intricacies of flight scheduling and delays, and evaluate the performance metrics of airlines and airports. The ultimate goal is to provide strategic recommendations to enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of the aviation industry's standards and practices.  
 
