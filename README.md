@@ -60,8 +60,9 @@ Plotted various chats to visualize raw data and pivot table.
 Created Dashboards to provide summarized view of all important charts. Added slicer to make it more interactive and insightful.  
 
 
-![Image 1](https://drive.google.com/file/d/1gBseSJ_KyGozbogbdhSVEoUffkwAjn2I)
-![Image 2](https://drive.google.com/file/d/1hSLPUUYnM60YnD_dlF8P3QAEhbBOCUEe)
+![Image 1](https://drive.google.com/uc?id=1hSLPUUYnM60YnD_dlF8P3QAEhbBOCUEe)
+![Image 2](https://drive.google.com/uc?id=1gBseSJ_KyGozbogbdhSVEoUffkwAjn2I)
+
 
 
 
