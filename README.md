@@ -74,7 +74,7 @@ Created Dashboards to provide summarized view of all important charts. Added sli
 2.	Almost all airlines are only around 50% on time.  
 3.	Early week and end of the week has highest number of cancellation and delayed flights.  
 4.	Late aircraft delay and airline dealer aunty two most prominent reason of delay.  
-5.	Morning and afternoon times a lot has a higher number of flights, and delay, on contrary, night has 20 number of flights and very less number of delays.  
+5.	Morning and afternoon times slot has a higher number of flights, and delay, on contrary, night has less number of flights and very less number of delays.  
 
 **Conclusion: -** 
 In this project we have done analysis of extensive data set consisting data from flight, airlines and airports using Microsoft Excel and tried to uncover insights and patterns 
